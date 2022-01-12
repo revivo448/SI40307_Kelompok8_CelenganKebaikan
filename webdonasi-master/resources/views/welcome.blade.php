@@ -20,10 +20,8 @@
             </div>
         </div>
 
-    </section><!-- End Hero -->
-
+    </section>
     <main id="main">
-
         <!-- ======= App Features Section ======= -->
         <section id="features" class="features">
             <div class="container">
